@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<repository name="Groovy Development Tools for e4.27" type="org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository" version="1.0.0">
+  <properties size="1">
+    <property name="p2.timestamp" value="1704043363772"/>
+  </properties>
+  <children size="3">
+    <!--
+    <child location="https://groovy.jfrog.io/artifactory/plugins-release-local/org/codehaus/groovy/groovy-eclipse-integration/5.2.0/e4.27"/>
+    <child location="https://groovy.jfrog.io/artifactory/plugins-release-local/org/codehaus/groovy/groovy-eclipse-integration/5.1.0/e4.27"/>
+    <child location="https://groovy.jfrog.io/artifactory/plugins-release-local/org/codehaus/groovy/groovy-eclipse-integration/5.0.0/e4.27"/>
+    -->
+    <child location="https://groovy.jfrog.io/artifactory/plugins-release-local/org/codehaus/groovy/groovy-eclipse-integration/4.9.0/e4.27"/>
+  </children>
+</repository>
